@@ -28,4 +28,6 @@ function start() {
       // Affiche une erreur
       console.error(error);
     });
+
+   
 }
